@@ -7,8 +7,8 @@ title: Steamed_Fresh
 subtitle: '蒸鲜'
 description: '记录一些感悟，总结一些资源，收获一些朋友'
 keywords:
-author: John Doe
-language: en
+author: Steamed_Fresh
+language: zh-TW
 timezone: ''
 
 # URL
@@ -103,3 +103,19 @@ theme: ayer
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# hexo-generator-searchdb
+search:
+  path: search.xml
+  field: post
+  format: html
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: " "
+  order_by: -date
