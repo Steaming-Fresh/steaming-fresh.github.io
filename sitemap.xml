@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://steamedfresh.top/posts/113c468/</loc>
+    
+    <lastmod>2025-04-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://steamedfresh.top/link/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://steamedfresh.top/tags/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://steamedfresh.top/categories/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://steamedfresh.top/</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://steamedfresh.top/tags/%E6%94%B9%E5%8F%98/</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://steamedfresh.top/categories/%E6%9D%82%E8%B0%88/</loc>
+    <lastmod>2025-04-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
