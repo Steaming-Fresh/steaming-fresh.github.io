@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steamed Fresh&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/b8064c841029f086bcee8f06cb915de0</icon>
+  
+  <link href="https://steamedfresh.top/atom.xml" rel="self"/>
+  
+  <link href="https://steamedfresh.top/"/>
+  <updated>2025-04-09T16:12:24.810Z</updated>
+  <id>https://steamedfresh.top/</id>
+  
+  <author>
+    <name>Steamed Fresh</name>
+    <email>freshsteamed@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://steamedfresh.top/posts/113c468/"/>
+    <id>https://steamedfresh.top/posts/113c468/</id>
+    <published>2025-04-02T16:00:00.000Z</published>
+    <updated>2025-04-09T16:12:24.810Z</updated>
+    
+    <content type="html"><![CDATA[    <div id="aplayer-qjbsBDSQ" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="31311449" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><h1 id="复活-2025-04-10"><a href="#复活-2025-04-10" class="headerlink" title="复活-2025-04-10"></a>复活-2025-04-10</h1><p>网站功能恢复，后续补全本文。</p>]]></content>
+    
+    
+    <summary type="html">站点恢复</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://steamedfresh.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="改变" scheme="https://steamedfresh.top/tags/%E6%94%B9%E5%8F%98/"/>
+    
+  </entry>
+  
+</feed>
