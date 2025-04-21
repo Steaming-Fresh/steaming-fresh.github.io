@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steamed Fresh&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/b8064c841029f086bcee8f06cb915de0</icon>
+  
+  <link href="https://steamedfresh.top/atom.xml" rel="self"/>
+  
+  <link href="https://steamedfresh.top/"/>
+  <updated>2025-04-21T14:38:23.317Z</updated>
+  <id>https://steamedfresh.top/</id>
+  
+  <author>
+    <name>Steamed Fresh</name>
+    <email>freshsteamed@gmail.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://steamedfresh.top/posts/113c468/"/>
+    <id>https://steamedfresh.top/posts/113c468/</id>
+    <published>2025-04-02T16:00:00.000Z</published>
+    <updated>2025-04-21T14:38:23.317Z</updated>
+    
+    <content type="html"><![CDATA[    <div id="aplayer-KViuUEbM" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="31311449" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#ad7a86"    ></div><h1 id="复活-2025-04-10"><a href="#复活-2025-04-10" class="headerlink" title="复活-2025-04-10"></a>复活-2025-04-10</h1><p>没想到过了一整年都没怎么更新。一眨眼一年就过去了。</p><p>现在回想起大一，不确定性会更多，好坏都有，但是总归期待多些，现在反而疲惫更多。</p><h1 id="未来-2025-04-21"><a href="#未来-2025-04-21" class="headerlink" title="未来-2025-04-21"></a>未来-2025-04-21</h1><p>太累了，终于摆脱<code>PUA</code>了，现在返回去想整个项目工作，真是亏本生意，还是太年轻，太<code>naive</code>了。</p><p>给大家一个忠告，在加入任何项目组之类的任务之前，一定要做好调研。不只是对任务性质等的，还有对老板或者组长的调研。遇到个恶心人的，你会挣扎很久很久，身心俱伤。一定要搞明白什么对自己最重要，一定要重视身体健康。</p><p>给自己个小目标，希望每周能更新分享值得分享的。坚持分享也能疗愈自己（应该）</p><p>希望看到本文的大家都能身体健康，每天开心。这句话含金量越来越高了（无奈）</p><p><em>文章开头的Hello, world!是一直喜欢的歌曲，名字也很计算机，出自血界战线，很好看的番剧，希望大家喜欢～</em></p>]]></content>
+    
+    
+    <summary type="html">站点恢复</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://steamedfresh.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="改变" scheme="https://steamedfresh.top/tags/%E6%94%B9%E5%8F%98/"/>
+    
+  </entry>
+  
+</feed>
